@@ -5,7 +5,7 @@
 // @updateURL    https://github.com/qoomon/userscript-show-passwords/raw/main/show-passwords.user.js
 // @downloadURL  https://github.com/qoomon/userscript-show-passwords/raw/main/show-passwords.user.js
 // @description  Temporary show passwords by quadruple click input fields
-// @author       Bengt
+// @author       qoomon
 // @match        https://*/*
 // @icon         https://img.icons8.com/fluency-systems-filled/64/show-password.png
 // @grant        none
