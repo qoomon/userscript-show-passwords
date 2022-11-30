@@ -7,7 +7,7 @@
 // @description  Temporary show passwords by quadruple click input fields
 // @author       Bengt
 // @match        https://*/*
-// @icon         https://img.icons8.com/ios-filled/48/password-window.png
+// @icon         https://img.icons8.com/fluency-systems-filled/64/show-password.png
 // @grant        none
 // ==/UserScript==
 
