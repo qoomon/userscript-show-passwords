@@ -14,7 +14,7 @@
 (function() {
     'use strict';
 
-    document.addEventListener("keydown", (event) => {
+    document.addEventListener("keyup", (event) => {
         if (event.ctrlKey && event.key === "#"
             && document.activeElement.nodeName === "INPUT"
             && (document.activeElement.type === "password" || document.activeElement._passwordTimeout)) {
